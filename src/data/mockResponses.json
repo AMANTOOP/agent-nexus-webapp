@@ -1,0 +1,58 @@
+
+{
+  "1": {
+    "bestRecommendation": {
+      "name": "Samsung Galaxy A53",
+      "price": "₹24,999",
+      "features": ["6.5\" Super AMOLED display", "5000mAh battery", "64MP camera", "5G ready"],
+      "link": "#"
+    },
+    "reasoning": "The Samsung Galaxy A53 offers the best balance of performance, camera quality, and battery life within your budget of ₹25,000. It has a large vibrant display, decent processing power for everyday tasks, and a capable camera system. The large battery ensures all-day usage, and it's also future-proof with 5G connectivity.",
+    "topResults": [
+      {
+        "name": "Samsung Galaxy A53",
+        "price": "₹24,999",
+        "features": ["6.5\" Super AMOLED display", "5000mAh battery", "64MP camera", "5G ready"]
+      },
+      {
+        "name": "Realme GT Master Edition",
+        "price": "₹24,500",
+        "features": ["6.4\" AMOLED display", "4300mAh battery", "64MP camera", "5G ready"]
+      },
+      {
+        "name": "Xiaomi 11i",
+        "price": "₹24,999",
+        "features": ["6.67\" AMOLED display", "5160mAh battery", "108MP camera", "5G ready"]
+      }
+    ]
+  },
+  "2": {
+    "summary": "The article discusses the impact of artificial intelligence on job markets. Key points include: 1) AI will automate routine tasks but create new job categories, 2) Workers will need to develop skills that complement AI rather than compete with it, 3) There will be a transition period requiring government and business support for retraining, 4) Educational systems need to adapt to emphasize creativity, critical thinking and emotional intelligence.",
+    "keyPoints": ["Automation of routine tasks", "Creation of new job categories", "Need for complementary skills", "Transition period with retraining", "Educational system adaptation"]
+  },
+  "3": {
+    "itinerary": {
+      "destination": "Japan",
+      "duration": "7 days",
+      "budget": "$2,500 per person",
+      "schedule": [
+        {
+          "day": 1,
+          "location": "Tokyo",
+          "activities": ["Explore Shibuya", "Visit Meiji Shrine", "Dinner in Shinjuku"]
+        },
+        {
+          "day": 2,
+          "location": "Tokyo",
+          "activities": ["Tsukiji Fish Market", "Asakusa & Senso-ji Temple", "Tokyo Skytree"]
+        },
+        {
+          "day": 3,
+          "location": "Hakone",
+          "activities": ["Mount Fuji views", "Hakone Open-Air Museum", "Traditional Ryokan stay"]
+        }
+      ],
+      "recommendations": ["Purchase a 7-day Japan Rail Pass", "Book accommodations in advance", "Learn basic Japanese phrases"]
+    }
+  }
+}

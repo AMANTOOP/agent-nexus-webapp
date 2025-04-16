@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": "1",
+    "name": "Shopping Assistant",
+    "description": "Find the best products based on your requirements and budget",
+    "tags": ["shopping", "recommendation", "budget"],
+    "icon": "shopping-bag",
+    "category": "Shopping",
+    "popularityScore": 4.8,
+    "usageCount": 12500
+  },
+  {
+    "id": "2",
+    "name": "Content Summarizer",
+    "description": "Quickly summarize long articles, documents, and papers",
+    "tags": ["writing", "summary", "productivity"],
+    "icon": "file-text",
+    "category": "Productivity",
+    "popularityScore": 4.7,
+    "usageCount": 10200
+  },
+  {
+    "id": "3",
+    "name": "Travel Planner",
+    "description": "Plan your perfect trip with curated recommendations",
+    "tags": ["travel", "planning", "vacation"],
+    "icon": "map",
+    "category": "Travel",
+    "popularityScore": 4.5,
+    "usageCount": 8750
+  },
+  {
+    "id": "4",
+    "name": "Code Assistant",
+    "description": "Get help with coding problems and debugging issues",
+    "tags": ["coding", "development", "assistance"],
+    "icon": "code",
+    "category": "Development",
+    "popularityScore": 4.9,
+    "usageCount": 15000
+  },
+  {
+    "id": "5",
+    "name": "Health Advisor",
+    "description": "Receive personalized health and wellness recommendations",
+    "tags": ["health", "wellness", "lifestyle"],
+    "icon": "heart-pulse",
+    "category": "Health",
+    "popularityScore": 4.6,
+    "usageCount": 9800
+  },
+  {
+    "id": "6",
+    "name": "Financial Analyst",
+    "description": "Analyze financial data and get investment insights",
+    "tags": ["finance", "investment", "analysis"],
+    "icon": "bar-chart-2",
+    "category": "Finance",
+    "popularityScore": 4.4,
+    "usageCount": 7500
+  },
+  {
+    "id": "7",
+    "name": "Recipe Generator",
+    "description": "Get creative recipes based on ingredients you have",
+    "tags": ["cooking", "recipes", "food"],
+    "icon": "utensils",
+    "category": "Food",
+    "popularityScore": 4.7,
+    "usageCount": 11000
+  },
+  {
+    "id": "8",
+    "name": "Study Buddy",
+    "description": "Your AI study companion for any subject",
+    "tags": ["education", "study", "learning"],
+    "icon": "book-open",
+    "category": "Education",
+    "popularityScore": 4.8,
+    "usageCount": 13200
+  }
+]
